@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front End developer with 3 years of commercial experience, working in teams ranging from 1 to 12 members. Participated in the full cycle of front-end development: from communicating with the clients to define user needs and design specs to implementing optimized, interactive UIs with a reusable component system, fast load times, and automated testing workflows. Enhanced web performance by accelerating page speeds, improving SEO metrics, refining UX, and establishing a modular, reusable component system.<br><br>In addition to core front-end knowledge, implemented testing solutions using Jest to ensure high-quality, reliable codebases. Passionate about expanding skills into back-end development and actively explore these topics in my spare time.
+Front End developer with 5 years building production Vue (2 & 3) and Nuxt applications, working in teams from 2 to 30 engineers (remote and on‑site). Led the full cycle of front-end development: from communicating with the clients to define user needs and design specs to implementing optimized, interactive UIs with a reusable component system, fast load times, and automated testing workflows. Enhanced web performance by accelerating page speeds, improving SEO indicators, refining UX, and establishing modular, reusable component system.
 
 
 ## 🌐 Socials:
